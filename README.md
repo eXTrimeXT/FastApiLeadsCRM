@@ -13,8 +13,11 @@ uvicorn main:app --reload
 ```
 3. API будет доступна по адресу: 
 http://localhost:8000/docs
+
 http://localhost:8000/contacts
+
 http://localhost:8000/operators
+
 http://localhost:8000/sources
 
 
