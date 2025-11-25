@@ -12,6 +12,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 ```
 3. API будет доступна по адресу: 
+
 http://localhost:8000/docs
 
 http://localhost:8000/contacts
